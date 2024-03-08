@@ -52,3 +52,5 @@ It is a multiplayer card game developed in Java. The game involves N players and
         three_nw.txt: Three players, no winner possible.
         four_nw.txt: Four players, no winner possible.
         five_nw.txt: Five players, no winner possible.
+
+Thank you for your time.
